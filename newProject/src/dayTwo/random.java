@@ -1,4 +1,4 @@
-package javaPrograms;
+package dayTwo;
 
 public class random {
 

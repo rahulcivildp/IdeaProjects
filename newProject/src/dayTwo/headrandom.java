@@ -1,4 +1,4 @@
-package javaPrograms;
+package dayTwo;
 
 import java.util.Random;
 

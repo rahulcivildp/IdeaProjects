@@ -1,4 +1,4 @@
-package javaPrograms;
+package dayOne;
 
 public class Test {
     public static void main(String[] args) {
