@@ -1,6 +1,6 @@
-package dayTwo;
+package dayFour;
 
-public class random {
+public class EmpAttandance {
 
     public static void main(String[] args) {
         int fulltime = 1;
