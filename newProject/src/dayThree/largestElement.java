@@ -11,12 +11,9 @@ public class largestElement {
 
     public static int caculateLargestNum(int[] array, int total){
         int cal;
-        for (int i = 0; i < total; i++)
-        {
-            for (int j = i + 1; j < total; j++)
-            {
-                if (array[i] >array[j])
-                {
+        for (int i = 0; i < total; i++) {
+            for (int j = i + 1; j < total; j++) {
+                if (array[i] >array[j]) {
                     cal =array[i];
                     array[i] = array[j];
                     array[j] = cal;
